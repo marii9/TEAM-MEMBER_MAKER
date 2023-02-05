@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.4",
+    "path": "^0.12.7"
+  },
+  "name": "02-challenge",
+  "description": "Your task is to build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^29.4.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "marii99"
+  },
+  "author": "shemar boyd",
+  "license": "ISC"
+}
