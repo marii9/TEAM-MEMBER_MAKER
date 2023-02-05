@@ -16,7 +16,8 @@ Node is required to run this application, in order to install you must run "npm 
 
 ## Usage
 
-n/a
+
+[Untitled_ Feb 5, 2023 1_29 AM.webm](https://user-images.githubusercontent.com/116024194/216805375-221ce934-b28c-4e96-adf7-13285a4ea79e.webm)
 
 ## Contributing
 
